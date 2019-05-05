@@ -1,9 +1,15 @@
-/* 
-* @Author: tiger
-* @Date:   2015-10-20 19:34:32
-* @Last Modified by:   tiger
-* @Last Modified time: 2016-01-03 23:28:25
-*/
+
+.round_icon{
+  margin-left: auto;
+  margin-right:auto;
+  display:flex;
+  width: 88px;
+  height: auto;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
 *{ font-family:guoshi, "Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif,STHeiti,PingHei;
 
 font-weight:lighter
